@@ -18,4 +18,4 @@ Technologies Used
 
 Author
 
-Chukwudi Divine
+Divine Chukwudi
